@@ -13,7 +13,7 @@ DESCRIPTION="Python bindings for libnetfilter_queue"
 HOMEPAGE="https://pypi.python.org/pypi/NetfilterQueue"
 SRC_URI="https://pypi.python.org/packages/source/N/${PN}/${P}.tar.gz"
 
-LICENSE="MIT"
+LICENSE="BSD MIT"
 KEYWORDS="~amd64 ~x86"
 SLOT="0"
 IUSE=""
