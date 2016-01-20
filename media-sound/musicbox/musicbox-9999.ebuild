@@ -23,5 +23,6 @@ RDEPEND="
 	net-misc/aria2
 	x11-libs/libnotify
 	dev-python/requests
+	dev-libs/keybinder:0[python]
 "
 DEPEND="${RDEPEND}"
