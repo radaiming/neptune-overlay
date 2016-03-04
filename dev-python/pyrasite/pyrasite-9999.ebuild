@@ -18,4 +18,6 @@ KEYWORDS=""
 SLOT="0"
 IUSE=""
 
-RDEPEND=">=sys-devel/gdb-7.3"
+RDEPEND=">=sys-devel/gdb-7.3
+    dev-python/urwid
+"
